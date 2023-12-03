@@ -37,6 +37,14 @@
 		{
 			"Name": "TextToSpeech",
 			"Enabled": true
+		},
+		{
+			"Name": "GoogleTextToSpeech",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/6d6bb40bd5a6452f9473b8b13bdf3fd3"
 		}
+	],
+	"TargetPlatforms": [
+		"Windows"
 	]
 }
